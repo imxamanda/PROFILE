@@ -2,7 +2,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 
 // ROTAS
-import Home from '../screens/listausuario/Home';
+import Home from "../screens/home/Home";
 import Post from "../screens/post/Post";
 import User from "../screens/usuario/User";
 
